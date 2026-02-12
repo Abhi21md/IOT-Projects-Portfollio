@@ -1,0 +1,11 @@
+#ifndef CREDENTIALS_H
+#define CREDENTIALS_H
+
+#define BLYNK_TEMPLATE_ID "TMPL3Bt3o8L4r"
+#define BLYNK_TEMPLATE_NAME "GAS LVL"
+#define BLYNK_AUTH_TOKEN "8UvoTXCsazn6AWHTbA4Ipiiskf6NpGKc"
+
+#define WIFI_SSID "Smart Bin"
+#define WIFI_PASS "7899262658"
+
+#endif

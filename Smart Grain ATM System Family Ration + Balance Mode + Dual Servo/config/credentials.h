@@ -1,0 +1,11 @@
+#ifndef CREDENTIALS_H
+#define CREDENTIALS_H
+
+#define BLYNK_TEMPLATE_ID "TMPL3vXLsbmhN"
+#define BLYNK_TEMPLATE_NAME "GRAIN ATM"
+#define BLYNK_AUTH_TOKEN "A0YQgWzvFJFkACwjRmBVtW7GyaLnC3Iz"
+
+#define WIFI_SSID "Smart Bin"
+#define WIFI_PASS "7899262658"
+
+#endif

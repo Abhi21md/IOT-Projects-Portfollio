@@ -1,0 +1,14 @@
+#ifndef CREDENTIALS_H
+#define CREDENTIALS_H
+
+#define BLYNK_TEMPLATE_ID "TMPL3EMgz2wxz"
+#define BLYNK_TEMPLATE_NAME "Vehicle Lock System"
+#define BLYNK_AUTH_TOKEN "dOwhBeVBTh_u788C9eCGqZXaGVqrWtx5"
+
+#define WIFI_SSID "Smart Bin"
+#define WIFI_PASS "7899262658"
+
+#define TELEGRAM_BOT_TOKEN "YOUR_BOT_TOKEN"
+#define TELEGRAM_CHAT_ID   "YOUR_CHAT_ID"
+
+#endif

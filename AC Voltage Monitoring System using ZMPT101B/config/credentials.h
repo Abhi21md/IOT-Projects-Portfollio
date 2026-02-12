@@ -1,0 +1,29 @@
+PROJECT NAME:
+AC Voltage Monitoring System
+
+BOARD:
+ESP32
+
+BLYNK TEMPLATE ID:
+TMPL3Tgv-rM5O
+
+BLYNK TEMPLATE NAME:
+vtg
+
+BLYNK AUTH TOKEN:
+BGApT16o7ufVKyKthlJVGJVgbE-347he
+
+WiFi SSID:
+Smart Bin
+
+WiFi PASSWORD:
+7899262658
+
+Calibration Value:
+850.0
+
+Sample Count:
+500
+
+Safe Voltage Range:
+180V – 260V

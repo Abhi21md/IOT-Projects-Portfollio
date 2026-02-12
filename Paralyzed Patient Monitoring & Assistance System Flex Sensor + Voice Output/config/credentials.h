@@ -1,0 +1,4 @@
+/*
+  This project does not use WiFi or Cloud.
+  Standalone Assistive System.
+*/
